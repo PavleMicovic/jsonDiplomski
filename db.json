@@ -29,8 +29,10 @@
 			"key":"btnSwitchLanguage",
 			"value":"Promenite jezik"
 			},
-			{"key":"btnSwitchFragments"
-			"value" : "Promeni fragment"}
+			{
+			"key":"btnSwitchFragments",
+			"value":"Promenite fragment"
+			}
 		]
 	},
 	{
@@ -61,8 +63,10 @@
 			"key":"btnSwitchLanguage",
 			"value":"Switch language"
 			},
-			{"key":"btnSwitchFragments"
-			"value" : "Switch fragment"}
+			{
+			"key":"btnSwitchFragments",
+			"value":"Swtich fragment"
+			}
 		]
 	},
 	{
@@ -93,8 +97,10 @@
 			"key":"btnSwitchLanguage",
 			"value":"Changer de langue"
 			},
-			{"key":"btnSwitchFragments"
-			"value" : "Changer le fragment"}
+			{
+			"key":"btnSwitchFragments",
+			"value":"Changer le fragment"
+			}
 		]
 	}
 ]
