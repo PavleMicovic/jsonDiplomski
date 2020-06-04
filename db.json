@@ -1,0 +1,107 @@
+{
+	"languages" : [
+	{
+		"timestamp" : "24",
+		"language" : "sr",
+		"resources" :
+		[
+			{"key":"btnLogin",
+			 "value":"Ulogujte se"}, 
+			
+			{"key":"editEmail",
+			 "value":"Email adresa"},
+			
+			{"key":"editPassword",
+			 "value":"Šifra"}, 
+			 
+			{"key":"textForgotPass",
+			 "value":"Zaboravili ste šifru?"},
+			
+			{"key":"textCreateAcc",
+			 "value":"Napravite novi nalog"},
+			
+			{"key":"textWelcome",
+			 "value":"Dobro došli"}, 
+			 
+			{"key":"btnSync",
+			 "value":"Sinhronizuj bazu sa serverom"},
+			{
+			"key":"btnSwitchLanguage",
+			"value":"Promenite jezik"
+			},
+			{
+			"key":"btnSwitchFragments"
+			"value":"Promeni fragment"
+			}
+		]
+	},
+	{
+		"timestamp" : 25,
+		"language" : "en",
+		"resources" :
+		[
+			{"key":"btnLogin",
+			 "value":"Log in"}, 
+			
+			{"key":"editEmail",
+			 "value":"Email address"},
+			
+			{"key":"editPassword",
+			 "value":"Password"}, 
+			 
+			{"key":"textForgotPass",
+			 "value":"Forgot your password?"},
+			
+			{"key":"textCreateAcc",
+			 "value":"Create new account"},
+			
+			{"key":"textWelcome",
+			 "value":"Welcome"},
+			{"key":"btnSync",
+			 "value":"Sync database with server"},
+			{
+			"key":"btnSwitchLanguage",
+			"value":"Switch language"
+			},
+			{
+			"key":"btnSwitchFragments"
+			"value":"Switch fragment"
+			}
+		]
+	},
+	{
+		"timestamp" : 26,
+		"language" : "fr",
+		"resources" :
+		[
+			{"key":"btnLogin",
+			 "value":"S'IDENTIFIER"}, 
+			
+			{"key":"editEmail",
+			 "value":"Adresse e-mail"},
+			
+			{"key":"editPassword",
+			 "value":"Mot de passe"}, 
+			 
+			{"key":"textForgotPass",
+			 "value":"Mot de passe oublié?"},
+			
+			{"key":"textCreateAcc",
+			 "value":"Créer un nouveau compte"},
+			
+			{"key":"textWelcome",
+			 "value":"Bienvenue"},
+			{"key":"btnSync",
+			 "value":"Synchroniser la base de données avec le serveur"},
+			{
+			"key":"btnSwitchLanguage",
+			"value":"Changer de langue"
+			},
+			{
+			"key":"btnSwitchFragments"
+			"value":"Changer le fragment"
+			}
+		]
+	}
+]
+}
