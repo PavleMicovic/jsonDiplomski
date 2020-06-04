@@ -31,7 +31,7 @@
 			},
 			{
 			"key":"btnSwitchFragments"
-			"value":"Promeni fragment"
+			"value" : "Promeni fragment"
 			}
 		]
 	},
@@ -65,7 +65,7 @@
 			},
 			{
 			"key":"btnSwitchFragments"
-			"value":"Switch fragment"
+			"value" : "Switch fragment"
 			}
 		]
 	},
@@ -99,7 +99,7 @@
 			},
 			{
 			"key":"btnSwitchFragments"
-			"value":"Changer le fragment"
+			"value" : "Changer le fragment"
 			}
 		]
 	}
